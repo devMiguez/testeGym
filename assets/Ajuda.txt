@@ -1,0 +1,13 @@
+Fontes utilizadas no site
+
+Títulos:
+Anton
+
+Subtítulos:
+HK Grotesk
+
+Cor do Fundo:
+#141414
+
+Cor da Fonte:
+#F9EF23
